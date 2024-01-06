@@ -19,8 +19,6 @@
 
 I am currently a sophomore student at Fisher College pursuing a Bachelor's degree in Software Engineering. I am passionate about learning new technologies and building software that solves real-world problems.
 
-- :zap: In my free time, I solve problems on LeetCode and tech related videos on youtube.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carson-evans42)
 
 ---
