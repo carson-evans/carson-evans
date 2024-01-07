@@ -2,7 +2,7 @@
   <img src="https://portfolio-steel-phi-62.vercel.app/static/media/avatar.af3e9eecaaf4764b7b408bd82ec7c5a3.svg" width="100"/>
  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/carson-evans42/">
+    <a href="https://www.linkedin.com/in/carson-evans42/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
