@@ -7,7 +7,7 @@
     </a>
   </div>
   
-  <img src="https://komarev.com/ghpvc/?username=carson-evans&style=flat-square&color=blue" alt=""/>
+ <!-- <img src="https://komarev.com/ghpvc/?username=carson-evans&style=flat-square&color=blue" alt=""/> -->
 </div>
 
 <!--
@@ -19,9 +19,9 @@
 ---
 ### :technologist: About Me :
 
-I am currently a sophomore student at Fisher College pursuing a Bachelor's degree in Software Engineering. I am actively searching for internships in the Boston area for Summer 2024.
+I am an AI Trainer at Scale AI and undergraduate in Fisher College.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carson-evans42)
+<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carson-evans42) -->
 
 ---
 
