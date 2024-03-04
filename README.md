@@ -9,11 +9,11 @@
   
   <img src="https://komarev.com/ghpvc/?username=carson-evans&style=flat-square&color=blue" alt=""/>
 </div>
-
+<!--
 <div align="center">
   <img src="https://gifdb.com/images/file/animated-man-computer-coding-nae6mec378lsg1i3.gif" width="600" height="300"/>
 </div>
-
+-->
 ---
 ### :technologist: About Me :
 
