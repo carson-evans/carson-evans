@@ -21,7 +21,7 @@
 
 I am an AI Trainer at Scale AI and undergraduate in Fisher College.
 
-<!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carson-evans42) -->
+- :mailbox:Send me an email: <a href="mailto:CarsonEvans@Outlook.com">CarsonEvans@outlook.com</a>
 
 ---
 
