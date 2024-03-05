@@ -17,4 +17,5 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carson-evans&show_icons=true&locale=en" alt="carson-evans" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=carson-evans&" alt="carson-evans" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carson-evans&show_icons=true&locale=en" alt="carson-evans" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carson-evans&" alt="carson-evans" /></p>
