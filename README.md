@@ -24,7 +24,7 @@ I am an AI Trainer at Scale AI and undergraduate in Fisher College.
 - :mailbox:Send me an email: <a href="mailto:CarsonEvans@Outlook.com">CarsonEvans@outlook.com</a>
 
 ---
-
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -47,7 +47,7 @@ I am an AI Trainer at Scale AI and undergraduate in Fisher College.
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Next.js" alt="Next" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nuget/nuget-original-wordmark.svg" title="NuGet" alt="NuGet" width="40" height="40"/>&nbsp;
 </div>
-
+-->
 ---
 
 ### :fire: My Stats :
