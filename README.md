@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Carson</h1>
 <h3 align="center">I am an AI Trainer at Scale AI and undergraduate in Fisher College.</h3>
 
-- 📫 Email **carsonevans@outlook.com**
-
-- 📄 Resume [https://bit.ly/carson-evans](https://bit.ly/carson-evans)
 
 ###
 
