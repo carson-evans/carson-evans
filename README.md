@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Carson</h1>
+<!--
 <h3 align="center">I am a Sophomore in Fisher College.</h3>
-
+-->
 
 ###
 
