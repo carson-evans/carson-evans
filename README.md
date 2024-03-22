@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Carson</h1>
+
+- 📫 Email **carsonevans@outlook.com**
+
+- 📄 Resume [https://bit.ly/carson-evans](https://bit.ly/carson-evans)
+
+###
+
+
 <!--
 <h3 align="center">I am a Sophomore in Fisher College.</h3>
 -->
+
+<!--
+
 
 ###
 
@@ -47,3 +58,4 @@
 ###
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=carson-evans&label=Profile%20views&color=0e75b6&style=flat" alt="carson-evans" /> </p>
+-->
