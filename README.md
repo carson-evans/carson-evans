@@ -1,62 +1,69 @@
-<!--
-<h1 align="center">Hi 👋, I'm Carson</h1>
+# Carson Evans
 
-- 📫 Email **carsonevans@outlook.com**
+**Undergraduate Student | Aspiring Software Engineer**
 
-- 📄 Resume [https://bit.ly/carson-evans](https://bit.ly/carson-evans)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/carson-evans42/)
+[![Email](https://img.shields.io/badge/Email-carsonevans%40outlook.com-informational?logo=microsoft-outlook)](mailto:carsonevans@outlook.com)
 
-###
+---
 
+## 👋 About Me
 
-<!--
-<h3 align="center">I am a Sophomore in Fisher College.</h3>
--->
+I am an undergraduate student at the **University of Massachusetts Boston**, pursuing a Bachelor of Science degree in Computer Science with a concentration in Software Engineering. My background includes software development, automation, AI, and client support.
 
-<!--
+I'm passionate about **Artificial Intelligence** and have experience in **Python**, **Java**, and **C++**, among other languages. I enjoy working on projects involving machine learning, data analysis, and automation.
 
+---
 
-###
+## 💼 Projects
 
-<div align="center">
-  
-  <a href="https://www.linkedin.com/in/carson-evans42/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
-  </a>
-  
-  <a href="https://codepen.io/carson-evans" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codepen/default.svg" width="62" height="50" alt="codepen logo"  />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/carson-evans" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="62" height="50" alt="stackoverflow logo"  />
-  </a>
-  
-  <a href="https://www.leetcode.com/carson-evans" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  width="62" height="50" alt="leetcode logo"  />
-  </a>
-  
-</div>
+### [Cat or Dog Image Classifier](https://github.com/carson-evans/cat-dog-classifier)
+An AI model that classifies images as cats or dogs using convolutional neural networks.
 
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carson-evans&show_icons=true&locale=en&layout=compact&theme=dark" alt="carson-evans" />
-</div>
+### [Book Recommendation using KNN](https://github.com/carson-evans/book-recommendation-knn)
+A recommendation system that suggests books based on user preferences using the K-Nearest Neighbors algorithm.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carson-evans&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false%22" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=carson-evans&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+### [AI Sentiment Analysis with IBM Watson](https://github.com/carson-evans/AI-Sentiment-Analysis-IBM-Watson)
+A project utilizing IBM Watson to perform sentiment analysis on textual data.
 
+### [ChatGPT OpenAI API App](https://github.com/carson-evans/GPT-API)
+An application integrating OpenAI's GPT API to generate human-like text responses.
 
+---
 
-###
-<div align="center">
-  <a href="https://open.spotify.com/user/22yqzpvulixrlfttxvc5ainly">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=22yqzpvulixrlfttxvc5ainly&count=3&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+## 🎓 Education
 
-###
+- **University of Massachusetts Boston**
+  - Bachelor of Science in Computer Science
+  - Concentration: Software Engineering
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=carson-evans&label=Profile%20views&color=0e75b6&style=flat" alt="carson-evans" /> </p>
--->
+---
+
+## 🏆 Certifications & Achievements
+
+- **IBM AI Developer**
+  - [View Credential](https://www.coursera.org/account/accomplishments/specialization/PYGW2FZ6AQSC)
+
+- **AWS Certified Solutions Architect – Associate**
+  - [View Credential](https://www.credly.com/badges/59b87b7b-bf7d-4f19-8672-28c52299f2a4/linked_in_profile)
+
+---
+
+## 📫 Contact Me
+
+- **LinkedIn:** [Carson Evans](https://www.linkedin.com/in/carson-evans42/)
+- **Email:** [carsonevans@outlook.com](mailto:carsonevans@outlook.com)
+
+---
+
+## 🌐 Interests
+
+- **Artificial Intelligence**
+- **Machine Learning**
+- **Software Development**
+
+Outside of engineering, I enjoy watching football—specifically the University of Georgia and the Cincinnati Bengals. I'm also exploring Boston and love to travel.
+
+---
+
+*Let's connect and collaborate on exciting projects!*
