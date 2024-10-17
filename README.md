@@ -11,7 +11,7 @@
 
 I am an undergraduate student at the **University of Massachusetts Boston**, pursuing a Bachelor of Science degree in Computer Science with a concentration in Software Engineering. My background includes software development, automation, AI, and client support.
 
-I'm passionate about **Artificial Intelligence** and have experience in **Python**, **Java**, and **C++**, among other languages. I enjoy working on projects involving machine learning, data analysis, and automation.
+I'm passionate about **Artificial Intelligence** and have experience in **Python**, **Java**, and **C++**, among other languages.
 
 ---
 
