@@ -1,6 +1,6 @@
 # Carson Evans
 
-**Undergraduate Student | Aspiring Software Engineer**
+**Undergraduate Student | Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/carson-evans42/)
 [![Email](https://img.shields.io/badge/Email-carsonevans%40outlook.com-informational?logo=microsoft-outlook)](mailto:carsonevans@outlook.com)
