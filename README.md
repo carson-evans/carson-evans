@@ -21,7 +21,7 @@ I'm passionate about **Artificial Intelligence** and have experience in **Python
 
 ![Carson's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carson-evans&theme=bear&hide_border=false&card_width=500)
 
-![Carson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carson-evans&theme=bear&show_icons=true&hide_border=false&layout=compact&card_width=500)
+![Carson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carson-evans&theme=bear&show_icons=true&hide_border=false&count_private=true&layout=compact&card_width=500)
 
 ---
 
