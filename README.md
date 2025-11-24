@@ -1,6 +1,6 @@
 # Carson Evans
 
-**Undergraduate Student | Software Engineer**
+**Undergraduate Student | B.S. CM Information Technology: Business Intelligence**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/carson-evans42/)
 [![Email](https://img.shields.io/badge/Email-carsonevans%40outlook.com-informational?logo=microsoft-outlook)](mailto:carsonevans@outlook.com)
@@ -9,9 +9,7 @@
 
 ## 👋 About Me
 
-I am an undergraduate student at the **University of Massachusetts Boston**, pursuing a Bachelor of Science degree in Computer Science with a concentration in Software Engineering. My background includes software development, automation, AI, and client support.
-
-I'm passionate about **Artificial Intelligence** and have experience in **Python**, **Java**, and **C++**, among other languages.
+I am an undergraduate student at the **University of Massachusetts Boston**, pursuing a Bachelor of Science degree in Information Technology with a concentration in Business Intelligence. My background includes software development, automation, AI, and client support.
 
 ---
 
