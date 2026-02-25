@@ -13,32 +13,6 @@ I am an undergraduate student at the **University of Massachusetts Boston**, pur
 
 ---
 
-## 📊 GitHub Stats
-
-![Carson's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carson-evans&theme=bear&show_icons=true&hide_border=false&count_private=true&card_width=500)
-
-![Carson's Streak](https://github-readme-streak-stats.herokuapp.com/?user=carson-evans&theme=bear&hide_border=false&card_width=500)
-
-![Carson's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carson-evans&theme=bear&show_icons=true&hide_border=false&count_private=true&layout=compact&card_width=500)
-
----
-
-## 💼 Projects
-
-### [Cat or Dog Image Classifier](https://github.com/carson-evans/cat-dog-classifier)
-An AI model that classifies images as cats or dogs using convolutional neural networks.
-
-### [Book Recommendation using KNN](https://github.com/carson-evans/book-recommendation-knn)
-A recommendation system that suggests books based on user preferences using the K-Nearest Neighbors algorithm.
-
-### [AI Sentiment Analysis with IBM Watson](https://github.com/carson-evans/AI-Sentiment-Analysis-IBM-Watson)
-A project utilizing IBM Watson to perform sentiment analysis on textual data.
-
-### [ChatGPT OpenAI API App](https://github.com/carson-evans/GPT-API)
-An application integrating OpenAI's GPT API to generate human-like text responses.
-
----
-
 ## 🎓 Education
 
 - **University of Massachusetts Boston**
@@ -61,17 +35,3 @@ An application integrating OpenAI's GPT API to generate human-like text response
 
 - **LinkedIn:** [Carson Evans](https://www.linkedin.com/in/carson-evans42/)
 - **Email:** [carsonevans@outlook.com](mailto:carsonevans@outlook.com)
-
----
-
-## 🌐 Interests
-
-- **Artificial Intelligence**
-- **Machine Learning**
-- **Software Development**
-
-Outside of engineering, I enjoy watching football—specifically the University of Georgia and the Cincinnati Bengals. I'm also exploring Boston and love to travel.
-
----
-
-*Let's connect and collaborate on exciting projects!*
