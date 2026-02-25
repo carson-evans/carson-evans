@@ -11,16 +11,6 @@
 
 I am an undergraduate student at the **University of Massachusetts Boston**, pursuing a Bachelor of Science degree in Information Technology with a concentration in Business Intelligence. My background includes software development, automation, AI, and client support.
 
----
-
-## 🎓 Education
-
-- **University of Massachusetts Boston**
-  - Bachelor of Science in Computer Science
-  - Concentration: Software Engineering
-
----
-
 ## 🏆 Certifications & Achievements
 
 - **IBM AI Developer**
